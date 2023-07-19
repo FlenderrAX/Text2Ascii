@@ -9,10 +9,19 @@ I created this simple script by putting all value of characters in a dictionnary
 ## Functions :
 
 - encode()
-```python
->>> encode("Hello World!")
 
->>> 72:101:108:108:111:32:87:111:114:108:100:33
+```python
+>>> encode("test")
+
+>>> 116:101:115:116
+```
+
+- decode()
+
+```python
+>>> decode([116, 101, 115, 116])
+
+>>> test
 ```
 
 ## Author
