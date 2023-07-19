@@ -8,7 +8,6 @@ I created this simple script by putting all value of characters in a dictionnary
 
 ## Functions :
 
-To install the files :
 - encode()
 ```python
 >>> encode("Hello World!")
